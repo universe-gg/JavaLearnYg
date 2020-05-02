@@ -8,6 +8,10 @@ public class Person {
     private static String nationality = "中国";
     private static int instanceCout = 0;
 
+    static {
+        System.out.println("...in Person. 静态代码段被调用~");
+    }
+
     public Person() {
         System.out.println("...Person.Person()");
         instanceCout++;

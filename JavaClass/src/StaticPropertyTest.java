@@ -3,6 +3,10 @@
  * @date 2020/5/2 16:50
  */
 public class StaticPropertyTest {
+    static {
+        System.out.println("...in StaticPropertyTest. 静态代码段被调用~");
+    }
+
     public static void main(String[] args) {
         System.out.println("...StaticPropertyTest.main()");
         Person p1 = new Person("张三","1998-01-01");
