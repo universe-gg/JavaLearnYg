@@ -1,3 +1,5 @@
+package com.ygjavalearn.basic;
+
 import java.util.Arrays;
 
 /**

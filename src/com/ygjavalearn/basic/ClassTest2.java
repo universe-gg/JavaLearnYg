@@ -2,6 +2,8 @@
  * @author yguo
  * @date 2020/5/2 15:27
  */
+package com.ygjavalearn.basic;
+
 public class ClassTest2 {
     public static void main(String[] args) {
         System.out.println("...ClassTest2.main()");

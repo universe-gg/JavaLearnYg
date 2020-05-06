@@ -2,6 +2,8 @@
  * @author yguo
  * @date 2020/5/2 14:12
  */
+package com.ygjavalearn.basic;
+
 public class ClassTest1 {
     public static void main(String[] args) {
         Person p1 = new Person();

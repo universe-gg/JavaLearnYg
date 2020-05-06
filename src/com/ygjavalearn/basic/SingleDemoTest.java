@@ -1,3 +1,7 @@
+package com.ygjavalearn.basic;
+
+import com.ygjavalearn.basic.SingleDemo;
+
 /**
  * @author yguo
  * @date 2020/5/2 21:33

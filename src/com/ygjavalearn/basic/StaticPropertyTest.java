@@ -1,3 +1,7 @@
+package com.ygjavalearn.basic;
+
+import com.ygjavalearn.basic.Person;
+
 /**
  * @author yguo
  * @date 2020/5/2 16:50

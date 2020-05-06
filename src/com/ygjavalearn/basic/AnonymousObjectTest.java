@@ -2,6 +2,9 @@
  * @author yguo
  * @date 2020/5/2 15:55
  */
+
+package com.ygjavalearn.basic;
+
 public class AnonymousObjectTest {
     public static void main(String[] args) {
         System.out.println("...AnonymousObjectTest.main()");
